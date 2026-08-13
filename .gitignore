@@ -1,0 +1,16 @@
+# Ignore raw data and processed residual files
+data/
+*.npy
+*.jpg
+*.png
+*.jpeg
+
+# Python environment and cache files
+__pycache__/
+*.pyc
+.venv/
+env/
+.env
+
+# Jupyter / Colab checkpoint files
+.ipynb_checkpoints/
